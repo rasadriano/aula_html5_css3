@@ -1,0 +1,54 @@
+body {
+    background: rgb(3, 0, 2);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+
+h1 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+ 
+}
+h2 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+}
+h3 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+}
+h4 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+}  
+h5 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+}
+h6 {
+    color:rgb(218, 231, 218);
+    font-family: helvetica;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-family: helvetica;
+    font-size: medium;
+   margin-top: 15px;
+}  
+
+img{
+    margin-bottom: 20px;
+   
+}
+
+section {
+    background: rgb(105, 102, 104) ;
+    margin-bottom: 20px;
+
+}
+
+
+    
